@@ -2,7 +2,9 @@
 
 ## Classification of Musk
 
-- 3 Dataset:
+Want to contrast 3 results 
+
+- 3 Datasets:
   - Columns >> Rows
   - Cloumns << Rows
   - Columns 
